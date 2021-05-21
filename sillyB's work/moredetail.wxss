@@ -1,4 +1,5 @@
 .page {
+  background-color:skyblue;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -13,6 +14,7 @@
   width: 590rpx;
 }
 .maininfo{
+  background-color:white;
   display: flex;
   margin-top: 40rpx;
   border: 2rpx solid#83A0FE;
@@ -92,6 +94,7 @@
   margin-bottom: 40rpx;
 }
 .detailedParticipants{
+ background-color:white;
   display: flex;
   margin-top: 40rpx;
   border: 2rpx solid#83A0FE;
